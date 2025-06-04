@@ -11,7 +11,7 @@ function App() {
   const [cart, setCart] = useState([]);
   return (
     <cartContext.Provider value={{ cart, setCart }}>
-      <Router basename="/react-food-cart">
+      <Router >
         <Header />
         <div className="container">
           <Routes>
