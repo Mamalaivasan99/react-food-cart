@@ -17,7 +17,7 @@ export const Product = ({product}) => {
   return (
     <div className='product'>
         <div className="img">
-            <img src={product.pic} alt={product.name} />
+            <img src={`${import.meta.env.BASE_URL}${product.pic}`} alt={product.name} />
         </div>
         <div className="details">
             <h3>{name}</h3>
