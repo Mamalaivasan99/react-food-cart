@@ -17,7 +17,7 @@ export const ViewCart = () => {
       {cart.map((product)=>(
         <div className="cart-product" key={product.id}>
         <div className="img">
-          <img src={product.pic} alt="image" />
+         <img src={`${import.meta.env.BASE_URL}${product.pic}`} alt={product.name} />
         </div>
         <div className="cart-product-details">
           <h3>{product.name}</h3>
