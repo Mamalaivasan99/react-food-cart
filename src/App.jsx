@@ -5,25 +5,22 @@ import { Home } from "./components/Home";
 import { ViewCart } from "./components/ViewCart";
 import { createContext, useState } from "react";
 
-export const cartContext = createContext()
+export const cartContext = createContext();
 
 function App() {
-  const [cart, setCart] = useState([])
+  const [cart, setCart] = useState([]);
   return (
-    
-      <cartContext.Provider value={{cart, setCart}}>
-        <BrowserRouter>
+    <cartContext.Provider value={{ cart, setCart }}>
+      <BrowserRouter basename="/react-food-cart">
         <Header />
         <div className="container">
           <Routes>
-            <Route path="/" element={<Home />}/>
-            <Route path="/Cart" element={<ViewCart />}/>
-
+            <Route path="/" element={<Home />} />
+            <Route path="/Cart" element={<ViewCart />} />
           </Routes>
         </div>
       </BrowserRouter>
-      </cartContext.Provider>
-    
+    </cartContext.Provider>
   );
 }
 
