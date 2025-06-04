@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Header from "./components/Header";
 import { Home } from "./components/Home";
@@ -11,7 +11,7 @@ function App() {
   const [cart, setCart] = useState([]);
   return (
     <cartContext.Provider value={{ cart, setCart }}>
-      <BrowserRouter basename="/react-food-cart">
+      <Router basename="/react-food-cart">
         <Header />
         <div className="container">
           <Routes>
@@ -19,7 +19,7 @@ function App() {
             <Route path="/Cart" element={<ViewCart />} />
           </Routes>
         </div>
-      </BrowserRouter>
+      </Router>
     </cartContext.Provider>
   );
 }
