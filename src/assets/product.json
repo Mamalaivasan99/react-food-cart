@@ -5,7 +5,7 @@
     "amt": "199",
     "shop": "Biryani Hut",
     "ftype": "Rice",
-    "pic": "/images/biriyani.jpg",
+    "pic": "images/biriyani.jpg",
     "latest": "Yes"
   },
   {
@@ -14,7 +14,7 @@
     "amt": "249",
     "shop": "Tandoori Palace",
     "ftype": "Curry",
-    "pic": "/images/butter_chicken.jpg",
+    "pic": "images/butter_chicken.jpg",
     "latest": "Yes"
   },
   {
@@ -23,7 +23,7 @@
     "amt": "89",
     "shop": "South Spice",
     "ftype": "Snack",
-    "pic": "/images/masala_dosa.jpg",
+    "pic": "images/masala_dosa.jpg",
     "latest": "Yes"
   },
   {
@@ -32,7 +32,7 @@
     "amt": "49",
     "shop": "Street Food Corner",
     "ftype": "Snack",
-    "pic": "/images/pani_puri.jpg",
+    "pic": "images/pani_puri.jpg",
     "latest": "Yes"
   },
   {
@@ -41,7 +41,7 @@
     "amt": "129",
     "shop": "Punjabi Diner",
     "ftype": "Bread",
-    "pic": "/images/chole_bhature.jpg",
+    "pic": "images/chole_bhature.jpg",
     "latest": "Yes"
   },
   {
@@ -50,7 +50,7 @@
     "amt": "39",
     "shop": "Snack Shack",
     "ftype": "Snack",
-    "pic": "/images/samosa.jpg",
+    "pic": "images/samosa.jpg",
     "latest": "Yes"
   },
   {
@@ -59,7 +59,7 @@
     "amt": "99",
     "shop": "North Indian Delights",
     "ftype": "Bread",
-    "pic": "/images/alooparota.jpg",
+    "pic": "images/alooparota.jpg",
     "latest": "Yes"
   },
   {
@@ -68,7 +68,7 @@
     "amt": "199",
     "shop": "Veggie Feast",
     "ftype": "Curry",
-    "pic": "/images/palakpaneer.jpg",
+    "pic": "images/palakpaneer.jpg",
     "latest": "Yes"
   },
   {
@@ -77,7 +77,7 @@
     "amt": "299",
     "shop": "BBQ Grill",
     "ftype": "Grill",
-    "pic": "/images/tandoorichicken.jpg",
+    "pic": "images/tandoorichicken.jpg",
     "latest": "Yes"
   },
   {
@@ -86,7 +86,7 @@
     "amt": "59",
     "shop": "Gujarat Sweets",
     "ftype": "Snack",
-    "pic": "/images/dhokla.jpg",
+    "pic": "images/dhokla.jpg",
     "latest": "Yes"
   },
   {
@@ -95,7 +95,7 @@
     "amt": "49",
     "shop": "Mumbai Street Food",
     "ftype": "Snack",
-    "pic": "/images/vadapav.jpg",
+    "pic": "images/vadapav.jpg",
     "latest": "Yes"
   },
   {
@@ -104,7 +104,7 @@
     "amt": "79",
     "shop": "South Indian Corner",
     "ftype": "Snack",
-    "pic": "/images/dosa.jpg",
+    "pic": "images/dosa.jpg",
     "latest": "Yes"
   },
   {
@@ -113,7 +113,7 @@
     "amt": "119",
     "shop": "Mumbai Tiffin",
     "ftype": "Snack",
-    "pic": "/images/pavbaji.jpg",
+    "pic": "images/pavbaji.jpg",
     "latest": "Yes"
   },
   {
@@ -122,7 +122,7 @@
     "amt": "89",
     "shop": "Gujarat Delights",
     "ftype": "Bread",
-    "pic": "/images/methithepla.jpg",
+    "pic": "images/methithepla.jpg",
     "latest": "Yes"
   },
   {
@@ -131,7 +131,7 @@
     "amt": "149",
     "shop": "North Indian Kitchen",
     "ftype": "Curry",
-    "pic": "/images/rajma.jpg",
+    "pic": "images/rajma.jpg",
     "latest": "Yes"
   },
   {
@@ -140,7 +140,7 @@
     "amt": "99",
     "shop": "Comfort Foods",
     "ftype": "Rice",
-    "pic": "/images/kichdi.jpg",
+    "pic": "images/kichdi.jpg",
     "latest": "Yes"
   },
   {
@@ -149,7 +149,7 @@
     "amt": "89",
     "shop": "South Indian Delights",
     "ftype": "Rice",
-    "pic": "/images/pongal.jpg",
+    "pic": "images/pongal.jpg",
     "latest": "Yes"
   },
   {
@@ -158,7 +158,7 @@
     "amt": "159",
     "shop": "Punjabi Treats",
     "ftype": "Curry",
-    "pic": "/images/kadhipakora.jpg",
+    "pic": "images/kadhipakora.jpg",
     "latest": "Yes"
   },
   {
@@ -167,6 +167,6 @@
     "amt": "69",
     "shop": "Tibetan Delights",
     "ftype": "Snack",
-    "pic": "/images/momos.jpg",
+    "pic": "images/momos.jpg",
     "latest": "Yes"
   }]
